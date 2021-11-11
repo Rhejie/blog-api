@@ -9,18 +9,7 @@
 
 1. Open in cmd or terminal app and navigate to this folder
 2. Run following commands
-
-```bash
-composer install
-```
-
-```bash
-npm install
-```
-
-```bash
-npm run dev
-```
+git 
 
 ```bash
 php artisan migratre
