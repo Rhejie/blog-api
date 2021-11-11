@@ -9,7 +9,10 @@
 
 1. Open in cmd or terminal app and navigate to this folder
 2. Run following commands
-git 
+
+```bash
+composer install
+```
 
 ```bash
 php artisan migratre
