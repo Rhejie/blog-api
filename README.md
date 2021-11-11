@@ -7,6 +7,34 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+1. Open in cmd or terminal app and navigate to this folder
+2. Run following commands
+
+```bash
+composer install
+```
+
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
+
+```bash
+php artisan migratre
+```
+
+```bash
+php artisan passport:install
+```
+
+```bash
+php artisan serve
+```
+
+And navigate to generated server link (http://127.0.0.1:8000)
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
