@@ -15,6 +15,11 @@ composer install
 ```
 
 ```bash
+create database blog_db
+```
+
+
+```bash
 php artisan migrate --seed
 ```
 #or
