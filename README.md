@@ -15,7 +15,12 @@ composer install
 ```
 
 ```bash
-php artisan migratre
+php artisan migrate --seed
+```
+#or
+
+```bash
+php artisan migrate:refresh --seed
 ```
 
 ```bash
